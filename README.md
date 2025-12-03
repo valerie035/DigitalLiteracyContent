@@ -1,8 +1,6 @@
-# DigitalLiteracyContent
-Materials relevant for Digital Literacy Classes
-
 # Digital Literacy Content
 
+Materials relevant for Digital Literacy Classes
 Materials and links I use (or plan to use) for junior high Digital Literacy / tech classes. This repo is meant to be a living library I can grow over time and reuse across courses.
 
 ---
