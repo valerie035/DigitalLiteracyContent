@@ -1,5 +1,6 @@
 # DigitalLiteracyContent
 Materials relevant for Digital Literacy Classes
+
 # Digital Literacy Content
 
 Materials and links I use (or plan to use) for junior high Digital Literacy / tech classes. This repo is meant to be a living library I can grow over time and reuse across courses.
@@ -36,24 +37,35 @@ As this grows, I can:
 Resources that provide full lessons or professional learning, usually with built-in activities.
 
 - **Code.org – Professional Learning**  
-  <https://code.org/en-US/professional-learning>  
-  PD, lesson plans, and teaching guides that align with K–12 CS and digital literacy content.
+  <https://code.org/en-US/professional-learning>
 
 - **Code.org – Course & Lesson Catalog**  
-  <https://studio.code.org/catalog>  
-  Browse all Code.org units and courses (great for pulling specific lessons or Hour of Code activities).
+  <https://studio.code.org/catalog>
 
 - **Common Sense Education – Digital Citizenship Curriculum**  
-  <https://www.commonsense.org/education/digital-citizenship/curriculum>  
-  Free, research-backed K–12 digital citizenship curriculum focused on online safety, media literacy, and digital well-being.
+  <https://www.commonsense.org/education/digital-citizenship/curriculum>
 
 - **Google Applied Digital Skills**  
-  <https://applieddigitalskills.withgoogle.com>  
-  Free, video-based curriculum where students build real-world projects (resumes, planning sheets, interactive stories) while learning tools like Docs, Sheets, and Slides.
+  <https://applieddigitalskills.withgoogle.com>
 
 - **Google for Education – CS & Digital Skills for Educators**  
-  <https://grow.google/educators/>  
-  Training for teachers plus links to CS / digital skills programs (including CS First and other resources).
+  <https://grow.google/educators/>
+
+- **TED-Ed Collections**  
+  <https://ed.ted.com/ted_ed_collections>  
+  Curated videos and lesson sets across tech, creativity, design, and more.
+
+- **TED-Ed Lessons – Design, Engineering & Technology**  
+  <https://ed.ted.com/lessons?category=design-engineering-technology&sort=featured-position>  
+  Tech-focused TED-Ed lessons for warm-ups or sub plans.
+
+- **Adobe Education Exchange (Adobe Learning Hub)**  
+  <https://www.adobe.com/learn>  
+  Teacher PD, tutorials, and lesson ideas for Adobe tools.
+
+- **Adobe EdEx – 12 Days of Creativity**  
+  <https://edex.adobe.com/teaching-resources/12-days-of-creativity>  
+  Ready-to-use creative mini-lessons for digital media projects.
 
 > 💡 Use this section when you’re planning units, aligning to standards, or need ready-made lesson sequences.
 
@@ -66,23 +78,27 @@ Links students can use directly for practice, projects, or extension work.
 ### Coding & Computational Thinking
 
 - **Code.org Labs & Activities**  
-  (linked via the catalog above) – block-based coding, puzzles, and short activities appropriate for middle school.
+  Block-based coding puzzles and short activities.
 
 - **Scratch (MIT)**  
-  <https://scratch.mit.edu>  
-  Block-based coding platform for creating stories, animations, and games. Great for projects that connect to Digital Literacy, design, and storytelling.
+  <https://scratch.mit.edu>
+
+### Computer Hardware & Tech Concepts (Videos)
+
+- **How Computer Memory Works (YouTube)**  
+  <https://www.youtube.com/watch?v=p3q5zWCw8J4>
+
+- **Semiconductor Manufacturing Process — Samsung**  
+  <https://www.youtube.com/watch?v=Bu52CE55BN0>
 
 ### Digital Skills & Productivity
 
 - **Applied Digital Skills – Student Lessons**  
-  <https://applieddigitalskills.withgoogle.com>  
-  Students follow video lessons to complete projects using Google Workspace (Docs, Sheets, Slides, etc.).
+  <https://applieddigitalskills.withgoogle.com>
 
 - **Typing Practice (placeholder)**  
   - *TypingClub*: <https://www.typingclub.com>  
-  - *Nitro Type*: <https://www.nitrotype.com> (gamified typing races)  
-
-*(Decide later which one(s) fit your school policies and add notes.)*
+  - *Nitro Type*: <https://www.nitrotype.com>
 
 ---
 
@@ -91,15 +107,19 @@ Links students can use directly for practice, projects, or extension work.
 Tools students can use to create products (presentations, graphics, documents) during your course.
 
 - **Canva for Education**  
-  <https://www.canva.com/education/>  
-  100% free for K–12 teachers and students; templates for presentations, posters, infographics, etc.
+  <https://www.canva.com/education/>
 
 - **Google Workspace (Docs, Slides, Sheets, Forms)**  
-  Typically available via school Google accounts; used for writing, collaboration, data, and simple surveys/quizzes.
+  Available via school Google accounts.
 
-- **Adobe Express for Education** (if available in district)  
-  <https://www.adobe.com/express/education.html>  
-  Simple tools for web pages, short videos, and graphics.
+- **Adobe Express for Education**  
+  <https://www.adobe.com/express/education.html>
+
+- **Adobe Education Resource Hub**  
+  <https://www.adobe.com/learn>
+
+- **Adobe EdEx – Creative Mini-Projects**  
+  <https://edex.adobe.com/teaching-resources/12-days-of-creativity>
 
 > 💡 This section pairs well with digital literacy projects (brochures, infographics, digital posters, mini-portfolios).
 
@@ -109,20 +129,17 @@ Tools students can use to create products (presentations, graphics, documents) d
 
 As the repo grows, potential additions:
 
-- **Unit Folders**  
+- **Unit Folders**
   - `unit_1_intro_to_computers`
   - `unit_2_digital_citizenship`
   - `unit_3_creating_with_media`
   - `unit_4_ai_and_data_literacy`
 
-- **Assignment Templates**  
-  - Google Doc / Slide templates exported as `.docx` / `.pptx` or `.pdf`.
-  - Rubrics and checklists.
+- **Assignment Templates**
+  - Google Docs/Slides templates exported as `.docx`, `.pptx`, or `.pdf`.
 
-- **Tagging Convention (optional)**  
-  In link lists, add quick tags like:
-  - `[curriculum]`, `[pd]`, `[practice]`, `[creative]`  
-  so it’s easy to scan or Ctrl+F later.
+- **Tagging Convention (optional)**
+  - `[curriculum]`, `[pd]`, `[practice]`, `[creative]`
 
 ---
 
